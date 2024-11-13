@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    text-decoration: none;
+   
+}
+body{
+    overflow-x: hidden; 
+}
+.header-div{
+    width: 100%;
+    height: 41.4px;
+    background: rgb(18, 18, 18);
+    box-shadow: 0px 0px 2px 0px gray;
+    padding-left: 509px;
+    position: relative;
+    
+}
+.txt-free{
+    color: white;
+     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"     ;
+    font-size: 13px;
+    padding-top: 10.4px;
+    letter-spacing: 1.1px;
+    display: inline-block;
+}
+.arrowmrk{
+    position: relative;
+    float: right;
+    margin-top: -29px;
+    margin-right: 512px;
+    color: white;
+
+}
+.header-two-div{
+    width: 100%;
+    height: 87px;
+    background: rgb(18, 18, 18);
+   
+    
+}
+.img-one{
+    width: 121px;
+    padding-top: 29px;
+    padding-left: 56px;
+}
+.list-div{
+    margin-right: 752px;
+    margin-top: -27px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"     ;
+    font-size: 16px;
+ }
+ .list{
+    list-style: none;
+    float: right;
+    position: relative;
+    left: 27px;
+    
+}
+
+
+.list-h{
+    display: inline-block;  
+    margin-right: 22px;
+
+}
+.link-h{
+    color: rgba(255, 255, 255, 0.75);
+    transition: 1s;
+}
+.link-h:hover{
+    color: white;
+    text-decoration: underline;
+}
+.link-home{
+    color: white;
+    text-decoration: underline;
+}
+.contact-logo-div{
+    width: 21px;
+    float: right;
+    margin-left: 700px;
+    color: white;
+}
+
+.contact-logo{
+    color: white;
+    position: relative;
+    bottom: 22px;
+    right: 102px;
+}
+
+.bag{
+    width: 19px;
+    color: white;
+    position: relative;
+    bottom: 63px;
+    right: 68px;
+}
+.bag-div{
+    width: 50px;
+}
+.imge-block{
+
+    width: 100%;
+    /* background: rgb(245, 241, 241); */
+    display: flex ;
+    justify-content: center;
+    gap: 46px;
+    margin-bottom: 34px;
+    margin-top: -11px;
+}
+.img1{
+    width: 342px;
+    margin-top: -11px;   
+}
+.founder{
+    width: 100%;
+    display: flex;
+
+}
+.founder-img{
+    width: 376px;
+    margin-top: 40px;
+    padding-left: 55px;
+}
+.founder-text{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"     ;
+    font-size: 24px;   
+    margin-top: 103px;
+    margin-left: 76px;
+    color: rgb(18, 18, 18);
+}
+.f-txt2{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"     ;
+    font-size: 19.8px;   
+    color: rgba(18, 18, 18, 0.7);
+    margin-left: 76px;
+    margin-top: 27px;
+}
+.about{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"     ;
+    font-size: 19.8px;   
+    color: white;
+    background: black;
+    border: none;
+    letter-spacing: 1.1px;
+    margin-left: 76px;
+    margin-top: 34px;
+    font-size: 17px;
+    height: 53px;
+    width: 142px;
+    
+}
+
+.footer-div{
+    width: 100%;
+    height: 320px;
+    margin-top: 85px;
+     background: rgb(18, 18, 18);
+     text-align: center;
+}
+.number{
+    color: rgba(255, 250, 255, 0.75);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"     ;
+    line-height: 50px;
+    letter-spacing: 0.66px;
+    text-decoration: underline;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+
+
+.contact-us{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"     ;
+    letter-spacing: 0.66px;
+    padding-top: 30px;
+    font-size: 19px;
+    padding-bottom: 10px;
+}   
+.insta-logo{
+    color: rgba(255, 255, 255, 0.75);
+}
+.insta-logo:hover{
+    color: white;
+}
+
+.end-footer{
+    width: 100%;
+    height: 125px;
+    box-shadow: 0px 0px 1px 0px gray;
+    background: rgb(18, 18, 18);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"     ;
+    
+}
+.copy-wrt{
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 12.5px;
+    padding-top: 70px;
+    padding-left: 55px;
+    letter-spacing: 0.66px;
+}
+.footer-txt{
+    color: rgba(255, 255, 255, 0.75);   
+
+}
+.footer-txt1{
+    color: rgba(255, 255, 255, 0.75);   
+}
+.footer-txt1:hover{
+    color: white;
+    text-decoration: underline;
+}
